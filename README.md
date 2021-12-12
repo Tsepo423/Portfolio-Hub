@@ -9,5 +9,4 @@ Tsepo Sehaole Data Science Portfolio
   5. Multiple Linear Regression was used as a baseline model. We also made use of Decision Tree Regressor and Random Forest Regressor in order to reach the best model.
   6. The Model was then successfully deployed on an AWS EC2 instance. 
   Finally, we presented our Research findings and model to a panel of specialist. 
-![](/Project_images/Load
-https://github.com/Tsepo423/Portfolio-Hub/blob/main/Project%20Portfolio/Project_1.png
+![image](https://user-images.githubusercontent.com/90627798/145718570-9251d52e-2283-41fb-97ca-a7b59c2b404b.png)
